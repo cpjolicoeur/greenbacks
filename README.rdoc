@@ -1,0 +1,1 @@
+= Greenbacks is an open-source, rails-based invoicing platform
